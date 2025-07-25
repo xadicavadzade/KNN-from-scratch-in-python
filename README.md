@@ -1,5 +1,3 @@
-# KNN-from-scratch-in-python
-Understanding and creating KNN
 # KNN From Scratch – No Libraries, Just Vibes
 
 Hey !   
