@@ -6,7 +6,7 @@ I did everything in a **Google Colab notebook**, so you can follow along easily 
 ---
 
 ## Check it out here:
-[📎 Click to open the notebook]([https://colab.research.google.com/drive/1NwiMijVrLzxDd4NQQ31qQxjqYE-elloH?usp=drive_link])
+[📎 Click to open the notebook](https://colab.research.google.com/drive/1NwiMijVrLzxDd4NQQ31qQxjqYE-elloH?usp=drive_link)
 
 
 ## What’s inside?
